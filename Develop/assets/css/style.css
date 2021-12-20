@@ -19,7 +19,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* made 'seo' letters in 'Horiseon' to light gray color seperatly */
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -49,7 +49,7 @@ header nav ul li a {
 .content p {
     font-size: 16px;
 }
-
+/* put an image in center of hero section */
 .hero {
     height: 800px;
     width: 100%;
